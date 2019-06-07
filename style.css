@@ -5,3 +5,15 @@ h3{
     background: yellow;
     color:red;
 }
+.box{
+    background:pink;
+    width:500 px;
+    margin:100px auto;
+    padding:50px;
+}
+#image{
+    width:100px;
+    height:100px;
+    border:10px solid red;
+    border-radius:20px;
+}
